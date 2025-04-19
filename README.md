@@ -29,11 +29,11 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/sucQCmwUimI" title="Go to Source">
-        <img align="center" width=100% src=""   alt="VIDEO" /></a>
+        <img align="center" width=100% src=""   alt="miniatura" /></a>
       </p>
     <p align="center">
-        <a href="https://www.youtube.com/@c%C3%B3digodiv" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/@c%C3%B3digodiv" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"  /></a>
+      <a href="https://misahel-777.github.io/Pagina-Web-de-Noticias/" target="blank"><img align="center" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Sitio Web" /></a>
     </p>       
 </td>
 
