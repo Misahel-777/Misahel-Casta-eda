@@ -24,6 +24,19 @@
 
 <h2>Mis proyectos</h2>
 
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/sucQCmwUimI" title="Go to Source">
+        <img align="center" width=100% src=""   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://www.youtube.com/@c%C3%B3digodiv" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
