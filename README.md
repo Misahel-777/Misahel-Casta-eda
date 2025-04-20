@@ -28,7 +28,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.youtube.com/@c%C3%B3digodiv" title="Go to Source"><img align="center" width=100% src="miniatura 2.0.png"   alt="miniatura" /></a>
+     <a href="https://www.youtube.com/@c%C3%B3digodiv" title="Go to Source"><img align="center" width=100% src="Web de noticias con HTML y CSS.png"   alt="miniatura" /></a>
       </p>
     <p align="center">
         <a href="https://www.youtube.com/@c%C3%B3digodiv" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"  /></a>
